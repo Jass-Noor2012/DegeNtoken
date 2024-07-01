@@ -116,7 +116,7 @@ This allows you to deploy the contract locally, but to deploy it on avalanche, y
 
 ## Author
 Jasnoor kaur
-Jass-Noor2012
+@Jass-Noor2012
 
 ## License
 This project is licensed under the MIT license.
